@@ -53,7 +53,3 @@ The application stores all users, items, and claims in `data/appdata.dat` using 
 - The admin account is created automatically when no saved data file exists.
 - To reset the demo data, close the application and delete `data/appdata.dat`.
 - Dates must be entered in `YYYY-MM-DD` format.
-# campus-lost-and-found-with-java
-# campus.lost.and.fount.java
-# campus.lost.and.fount.java
-# campus.lost.and.fount.java
